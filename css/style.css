@@ -26,6 +26,10 @@ a{
     color: currentColor;
 }
 
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
 /* Utilities */
 
 .justify-between{
@@ -52,7 +56,7 @@ a{
 /* Layout */
 
 .container{
-    width: 60%;
+    width: 80%;
     margin: 0 auto;
 }
 
@@ -91,8 +95,44 @@ a{
     width: 100%;
 }
 
+.main-menu{
+    gap: 15px;
+    color: #ffffff;
+}
+
+.button{
+    background-color: #ffffff;
+    border-radius: 40px;
+    padding: 3px 5px;
+    font-size: 13px;
+}
+
+/* STYLE */
+
+.bg__blue{
+    background-color: #3161E0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* Debug */
-.debug .row{
+/* .debug .row{
     min-height: 80px;
 }
 
@@ -170,7 +210,7 @@ a{
     padding: 2px;
     border: 1px solid black;
     width: 80px;
-}
+} */
 
 
 
