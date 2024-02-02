@@ -82,6 +82,12 @@ body{
     padding: 50px;
 }
 
+.hero{
+    background-image: url("../img/jumbo.png");
+    background-size: cover;
+    background-position: center;
+}
+
 .hero-title,
 .hero-description{
     max-width: 60%;
@@ -189,6 +195,7 @@ section.hero{
 
 .footer-list li{
     color: #ffffff;
+    font-size: 12px;
 }
 
 .select-language img{
@@ -200,6 +207,16 @@ section.hero{
     background-color: #23272A;
     color: #ffffff;
     border: none;
+}
+
+.social-icons{
+    margin-top: 10px;
+}
+
+.star-title{
+    background-image: url("../img/stars.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 
 
