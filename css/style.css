@@ -88,6 +88,10 @@ body{
     background-position: center;
 }
 
+.hero-content{
+    padding: 50px 0;
+}
+
 .hero-title,
 .hero-description{
     max-width: 60%;
