@@ -223,6 +223,11 @@ section.hero{
     background-repeat: no-repeat;
 }
 
+/* SVG WAVES */
+
+.upside-down-wave{
+    transform: rotate(180deg);
+}
 
 
 
