@@ -225,6 +225,11 @@ section.hero{
 
 /* SVG WAVES */
 
+.wave{
+    position: relative;
+    bottom: -10px;
+}
+
 .upside-down-wave{
     transform: rotate(180deg);
 }
