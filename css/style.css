@@ -142,8 +142,16 @@ body{
 /* STYLE */
 
 .main-menu{
-    gap: 15px;
     color: #ffffff;
+}
+
+.main-menu li{
+    line-height: 40px;
+}
+
+.main-menu a{
+    display: block;
+    padding: 0 18px;
 }
 
 .bg__blue{
