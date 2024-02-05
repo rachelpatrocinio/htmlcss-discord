@@ -218,6 +218,8 @@ section.hero{
 
 .social-icons{
     margin-top: 10px;
+    display: flex;
+    gap: 5px;
 }
 
 .star-title{
