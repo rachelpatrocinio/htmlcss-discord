@@ -85,6 +85,12 @@ body{
     padding: 50px;
 }
 
+.main-header{
+    position: absolute;
+    z-index: 100;
+    width: 100%;
+}
+
 .hero{
     background-image: url("../img/jumbo.png");
     background-size: cover;
